@@ -28,7 +28,7 @@ let
               {
                 description = "strip output from Jupyter and IPython notebooks";
                 homepage = "https://github.com/kynan/nbstripout";
-                license = pkgs.licenses.mit;
+                licenses = pkgs.licenses.mit;
                 maintainers = [ ];
               };
           };
